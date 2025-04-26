@@ -1,6 +1,3 @@
-# csv-to-raster
-Special Topics of Geographic Information Systems_HW2
-
 # 降雨資料處理與視覺化工具集
 
 這個專案提供了一系列 Python 腳本，用於處理降雨資料、轉換為柵格檔案並套用視覺化符號。這些工具可以協助氣象資料分析人員和 GIS 專家快速處理大量降雨觀測資料，並產生高品質的視覺化成果。
