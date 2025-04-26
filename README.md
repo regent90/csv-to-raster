@@ -93,3 +93,7 @@
 ## 貢獻與問題回報
 
 如發現任何問題或有改進建議，請透過 GitHub Issues 回報。歡迎提交 Pull Request 協助改進這些工具。
+
+## 資料來源
+
+資料來源：[臺灣氣候變遷推估資訊與調適知識平台](https://tccip.ncdr.nat.gov.tw/)
